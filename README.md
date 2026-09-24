@@ -114,4 +114,18 @@ GitHub: https://github.com/Okayfarhan
 ## License
 
 This project is available for educational and portfolio purposes.
+<img width="396" height="296" alt="Screenshot 2026-09-24 193059" src="https://github.com/user-attachments/assets/d2728188-d3d0-489b-a7b4-804a318d7292" />
+<img width="1165" height="656" alt="Screenshot 2026-09-24 193011" src="https://github.com/user-attachments/assets/ed0c3675-b20e-4fef-aef2-f82cd2d9fc66" />
+<img width="1166" height="652" alt="Screenshot 2026-09-24 193024" src="https://github.com/user-attachments/assets/c6a8afb5-d32e-48bb-8c56-e82f062c5f4f" />
+<img width="1162" height="666" alt="Screenshot 2026-09-24 193049" src="https://github.com/user-attachments/assets/b7d2a751-bcbb-4729-bfe7-f4d4a555a575" />
+## Dashboard Preview
+
+![Overview](Screenshots/Overview.png)
+
+![KPI Dashboard](Screenshots/KPI_Page.png)
+
+![Trend Analysis](Screenshots/Trends.png)
+
+
+
 
