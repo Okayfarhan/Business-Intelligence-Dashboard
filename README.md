@@ -119,8 +119,6 @@ This project is available for educational and portfolio purposes.
 <img width="1166" height="652" alt="Screenshot 2026-09-24 193024" src="https://github.com/user-attachments/assets/c6a8afb5-d32e-48bb-8c56-e82f062c5f4f" />
 <img width="1162" height="666" alt="Screenshot 2026-09-24 193049" src="https://github.com/user-attachments/assets/b7d2a751-bcbb-4729-bfe7-f4d4a555a575" />
 
-![Trend Analysis](Screenshots/Trends.png)
-
 
 
 
